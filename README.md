@@ -8,8 +8,8 @@
 </div>
 <div align="center">
 	<img src=https://img.shields.io/badge/Java-F1948A?style=flat-square&logo=Java&logoColor=white />
-	<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white" />
-	<img src="https://img.shields.io/badge/cshape-007396?style=flat&logo=csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-A569BD?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/cshape-ABEBC6?style=flat&logo=csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	
 </div>
