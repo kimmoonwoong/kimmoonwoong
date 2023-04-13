@@ -2,7 +2,15 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!!!&fontSize=50" />	
 </div>
 
-
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />		
+	<img src="https://img.shields.io/badge/#00599C?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/#239120?style=flat&logo=Conda-Forge&logoColor=white" />
+	
 </div>
 <div align=center>
 	<br>
