@@ -11,7 +11,7 @@
 
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h1>🏆 Baekjoon solved rank 🏆</h1>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansdnd1500)](https://solved.ac/ansdnd1500)
 </div>
