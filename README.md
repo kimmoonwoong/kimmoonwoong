@@ -9,7 +9,7 @@
 <div align="center">
 	<img src=https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white />
 	<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C++&logoColor=white" />
-	<img src="https://img.shields.io/badge/csharp-007396?style=flat&logo=csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/c#-007396?style=flat&logo=csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	
 </div>
