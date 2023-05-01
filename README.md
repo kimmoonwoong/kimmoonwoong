@@ -16,10 +16,14 @@
 <div align=center>
 	<p>✨ FrameWork ✨</p>
 </div>
-<div align="center">
-	<img src=https://img.shields.io/badge/Pytorch-F1948A?style=flat-square&logo=Pytorch&logoColor=white />
-	<img src=https://img.shields.io/badge/Tensorflow-F1948A?style=flat-square&logo=Tensorflow&logoColor=white />
 
+<br>
+
+<div align="center">
+	<img src=https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=Pytorch&logoColor=white />
+	<img src=https://img.shields.io/badge/Tensorflow-007396?style=flat-square&logo=Tensorflow&logoColor=white />
+	<img src=https://img.shields.io/badge/Unity-ABEBC6?style=flat-square&logo=Tensorflow&logoColor=white />
+</div>
 
 <div align=center>
 	<br>
