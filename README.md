@@ -14,6 +14,14 @@
 	
 </div>
 <div align=center>
+	<p>✨ FrameWork ✨</p>
+</div>
+<div align="center">
+	<img src=https://img.shields.io/badge/Pytorch-F1948A?style=flat-square&logo=Pytorch&logoColor=white />
+	<img src=https://img.shields.io/badge/Tensorflow-F1948A?style=flat-square&logo=Tensorflow&logoColor=white />
+
+
+<div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmoonwoong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kimmoonwoong&show_icons=true">
