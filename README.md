@@ -13,11 +13,12 @@
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	
 </div>
+
+<br>
+
 <div align=center>
 	<p>✨ FrameWork ✨</p>
 </div>
-
-<br>
 
 <div align="center">
 	<img src=https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=Pytorch&logoColor=white />
