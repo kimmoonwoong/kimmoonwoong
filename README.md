@@ -23,7 +23,7 @@
 <div align="center">
 	<img src=https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=Pytorch&logoColor=white />
 	<img src=https://img.shields.io/badge/Tensorflow-007396?style=flat-square&logo=Tensorflow&logoColor=white />
-	<img src=https://img.shields.io/badge/Unity-ABEBC6?style=flat-square&logo=Tensorflow&logoColor=white />
+	<img src=https://img.shields.io/badge/Unity-ABEBC6?style=flat-square&logo=Unity&logoColor=white />
 </div>
 
 <div align=center>
