@@ -31,9 +31,9 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmoonwoong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kimmoonwoong&show_icons=true">
-	<a href="https://github.com/kimmoonwoong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
-
 <br>
+	<a href="https://github.com/kimmoonwoong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimmoonwoong%2Fgjbae1212%2Fhit-counter"/></a>                        
+</div><br>
 <h1>🏆 Baekjoon solved rank 🏆</h1>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansdnd1500)](https://solved.ac/ansdnd1500)
