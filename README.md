@@ -32,7 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmoonwoong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kimmoonwoong&show_icons=true">
 <br>
-</div><br>
 <h1>🏆 Baekjoon solved rank 🏆</h1>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansdnd1500)](https://solved.ac/ansdnd1500)
